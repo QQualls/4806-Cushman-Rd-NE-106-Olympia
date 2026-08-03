@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qqualls.github.io/4806-Cushman-Rd-NE-106-Olympia/sitemap.xml
